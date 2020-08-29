@@ -6,3 +6,5 @@
 #### the Second Challenge is **[Clock Widget](https://github.com/gterzierol/Javascript30Days/tree/master/Javascript30Days/js-clock_JS30_Day2-master)**
 
 #### the Third Challenge is **[play Css Variable wtih JS](https://github.com/gterzierol/Javascript30Days/tree/master/Javascript30Days/css-variable-and-js)**
+
+#### the Third Challenge is **[play Css Variable wtih JS](https://github.com/gterzierol/Javascript30Days/tree/master/Javascript30Days/flex_panel_gallery_Day3_master)**
