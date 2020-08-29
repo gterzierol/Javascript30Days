@@ -7,4 +7,4 @@
 
 #### the Third Challenge is **[play Css Variable wtih JS](https://github.com/gterzierol/Javascript30Days/tree/master/Javascript30Days/css-variable-and-js)**
 
-#### the Third Challenge is **[play Css Variable wtih JS](https://github.com/gterzierol/Javascript30Days/tree/master/Javascript30Days/flex_panel_gallery_Day3_master)**
+#### the Third Challenge is **[Animate Flex Panels](https://github.com/gterzierol/Javascript30Days/tree/master/Javascript30Days/flex_panel_gallery_Day3_master)**
